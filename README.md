@@ -7,16 +7,16 @@ A simple RPG with a score, targets, an enemy, and dialogue.
 ## Implementation
 Godot Engine
 
-Features: 
-Flying Enemy 
-NPC Dialogue 
-Fluid Movement through a 3D space 
-Shoot and Targets 
-Health (Enemy) and Score 
-Win and Lose screen 
+Features:  
+Flying Enemy  
+NPC Dialogue  
+Fluid Movement through a 3D space  
+Shoot and Targets  
+Health (Enemy) and Score  
+Win and Lose screen  
 
 ## References
-Assets: 
+Assets:  
 Itch.io Modular Terrain Pack 
 https://fertile-soil-productions.itch.io/modular-terrain-pack/download/eyJpZCI6MjgzNjQ0LCJleHBpcmVzIjoxNjgyNzg5NTMyfQ%3d%3d.chpZPV8b5%2bAuOj9zOa027vL%2bydU%3d 
 
